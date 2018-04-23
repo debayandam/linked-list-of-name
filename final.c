@@ -339,29 +339,5 @@ int checkempty()
 }
 void close(void)
 {
-     printf("This project has been created by DEBAYAN DAM(46), PRAGYAN SAHA(47), SAYAN BOSE(48).\n");
+     printf("This project has been created by DEBAYAN DAM.\n");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
